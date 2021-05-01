@@ -1,0 +1,14 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "FastPlace",
+  "All": false,
+  "Obsidian": false,
+  "EnderChests": false,
+  "Crystals": true,
+  "Experience": true,
+  "Minecarts": true,
+  "ExpFeet": true,
+  "PacketCrystal": false
+}

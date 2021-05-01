@@ -1,0 +1,15 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "NoSlowDown",
+  "WebHSpeed": 88.6,
+  "WebVSpeed": 100.0,
+  "GuiMove": true,
+  "NoSlow": true,
+  "SoulSand": true,
+  "Strict": false,
+  "SneakPacket": false,
+  "EndPortal": false,
+  "Webs": false
+}

@@ -1,0 +1,12 @@
+{
+  "Enabled": true,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "BlockTweaks",
+  "AutoTool": false,
+  "AutoWeapon": false,
+  "NoFriendAttack": false,
+  "NoHitboxBlock": false,
+  "NoGlitchBlocks": true,
+  "Destroy": false
+}
