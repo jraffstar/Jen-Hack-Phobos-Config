@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": false,
+  "Bind": "None",
+  "DisplayName": "FastSwim",
+  "WaterHorizontal": 4.9,
+  "WaterVertical": 5.2,
+  "LavaHorizontal": 20.0,
+  "LavaVertical": 20.0
+}

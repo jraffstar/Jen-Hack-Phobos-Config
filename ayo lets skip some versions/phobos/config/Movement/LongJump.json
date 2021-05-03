@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "X",
+  "DisplayName": "LongJump",
+  "TimeOut": 0,
+  "Boost": 1.2,
+  "Mode": "DIRECT",
+  "LagOff": false,
+  "AutoOff": false,
+  "DisableStrafe": false,
+  "StrafeOff": false,
+  "SetStep": false
+}

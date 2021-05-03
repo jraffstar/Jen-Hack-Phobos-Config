@@ -1,0 +1,10 @@
+{
+  "Enabled": true,
+  "Drawn": false,
+  "Bind": "None",
+  "DisplayName": "Jesus",
+  "Mode": "TRAMPOLINE",
+  "NoVehicle": false,
+  "Jump": "PRE",
+  "NoFall": false
+}

@@ -1,0 +1,11 @@
+{
+  "Enabled": false,
+  "Drawn": false,
+  "Bind": "None",
+  "DisplayName": "NoFall",
+  "Mode": "PACKET",
+  "Distance": 35,
+  "Glide": false,
+  "Silent": true,
+  "Bypass": false
+}

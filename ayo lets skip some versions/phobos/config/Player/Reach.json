@@ -1,0 +1,9 @@
+{
+  "Enabled": true,
+  "Drawn": false,
+  "Bind": "None",
+  "DisplayName": "Reach",
+  "Override": true,
+  "Add": 3.0,
+  "Reach": 6.0
+}

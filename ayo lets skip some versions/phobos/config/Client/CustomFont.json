@@ -1,0 +1,14 @@
+{
+  "Enabled": true,
+  "Drawn": false,
+  "Bind": "None",
+  "DisplayName": "CustomFont",
+  "FontName": "Century_Gothic",
+  "FontSize": 20,
+  "FontStyle": 5,
+  "AntiAlias": true,
+  "Metrics": false,
+  "Shadow": false,
+  "Fonts": false,
+  "Full": false
+}

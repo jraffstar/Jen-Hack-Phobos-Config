@@ -1,0 +1,10 @@
+{
+  "Enabled": true,
+  "Drawn": false,
+  "Bind": "None",
+  "DisplayName": "MCP",
+  "Mode": "MIDDLECLICK",
+  "Rotation": true,
+  "AntiFriend": true,
+  "Delay": 10
+}

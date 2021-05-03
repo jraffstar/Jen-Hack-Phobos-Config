@@ -1,0 +1,10 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "Rbracket",
+  "DisplayName": "BlockLag",
+  "Packet": true,
+  "InvalidPacket": true,
+  "Rotations": 10,
+  "TimeOut": 983
+}
